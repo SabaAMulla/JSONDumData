@@ -1,6 +1,31 @@
-[
-  {"name":"Ravi","age":"12","rank":"2"},
-  {"name":"Dharshan", "age":"10", "rank":"1"},
-  {"name":"Diya", "age": "15", "rank":"3"},
-  {"name":"Shasti", "age":"14", "rank":"4"}
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
