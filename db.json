@@ -1,6 +1,5 @@
 {
   "authors": [
-    [
       {
         "id": 1,
         "authorName": "A.P.J. Abdul Kalam",
@@ -16,8 +15,7 @@
         "authorName": "Anil Padmanaban",
       "description": " ",
       }
-    ]
-  ],
+    ],
   "comments": [
     {
       "id": 1,
