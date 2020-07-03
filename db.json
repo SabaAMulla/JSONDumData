@@ -1,31 +1,31 @@
 {
   "authors": [
-      {
-        "id": 1,
-        "authorName": "A.P.J. Abdul Kalam",
-      "description": " ",
-      },
-      {
-       "id": 2,
-        "authorName": "Amrita Pritam ",
-      "description": " ",
-      },
-      {
-        "id": 3,
-        "authorName": "Anil Padmanaban",
-      "description": " ",
-      }
-    ],
+    {
+      "id": 1,
+      "authorName": "A.P.J. Abdul Kalam",
+      "description": "A.P.J. Abdul Kalam description"
+    },
+    {
+      "id": 2,
+      "authorName": "Amrita Pritam ",
+      "description": "Amrita Pritam description"
+    },
+    {
+      "id": 3,
+      "authorName": "Anil Padmanaban",
+	    "description": "Anil Padmanaban description"
+    }
+  ],
   "comments": [
     {
       "id": 1,
       "body": "some comment",
-      "postId": 1
+      "authorsId": 1
     },
     {
       "id": 2,
       "body": "some comment",
-      "postId": 1
+      "authorsId": 1
     }
   ],
   "profile": {
